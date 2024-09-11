@@ -11,7 +11,13 @@ Hi there. I'm Jiarui Y. Li, a PhD student in the [Electrical Engineering and Com
 
 I hold an MSc degree in Artificial Intelligence Engineering - Information Security ([MSAIE-IS](https://www.cmu.edu/ini/academics/msaie-is/index.html)) from the [Information Networking Institute](https://www.cmu.edu/ini/) at [Carnegie Mellon University](https://www.cmu.edu/), where I specialized in secure distributed machine learning. I worked closely with [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/) and [Dr. Taejin Kim](https://scholar.google.com/citations?user=4JfT_E4AAAAJ&hl=en). I was also advised by [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/) and [Dr. Pranay Sharma](https://sites.google.com/view/pranay-sharma/home).
 
-Prior to this, I obtained my Bachelor's degree in Computer Science and Engineering from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) in 2022. I also interned at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) for one year, mentored by [Dr. Wenxiang Jiao](https://wxjiao.github.io/).
+Prior to this, I obtained my Bachelor's degree in Computer Science and Engineering from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) in 2022. I also interned at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) for one year, mentored by [Dr. Wenxiang Jiao](https://wxjiao.github.io/). 
+
+🏀 I love sports, especially basketball :) <br>
+🎹 Piano learner (elementary level) <br>
+📜 Favourite quote 《诫子书》<br>
+📖 Recent reading *El Amor En Los Tiempos Del Colera* <br>
+
 
 <!-- My academic journey has been driven by a curiosity to understand and innovate in the field of machine learning, particularly in its applications to decision making and systems engineering. -->
 
