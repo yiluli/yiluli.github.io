@@ -16,7 +16,7 @@ Prior to this, I obtained my Bachelor's degree in Computer Science and Engineeri
 🏀 I love sports, especially basketball :) <br>
 🎹 Piano learner <br>
 📜 Favourite quote 《诫子书》<br>
-📖 Recent reading *El Amor En Los Tiempos Del Colera* <br>
+<!-- 📖 Recent reading *El Amor En Los Tiempos Del Colera* <br> -->
 
 
 <!-- My academic journey has been driven by a curiosity to understand and innovate in the field of machine learning, particularly in its applications to decision making and systems engineering. -->
