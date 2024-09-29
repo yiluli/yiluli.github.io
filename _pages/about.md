@@ -11,7 +11,7 @@ Hi there. I'm Jiarui Y. Li, a PhD student in the [Electrical Engineering and Com
 
 I hold an MSc degree in Artificial Intelligence Engineering - Information Security from the Information Networking Institute at [Carnegie Mellon University](https://www.cmu.edu), where I specialized in secure distributed machine learning. I worked closely with [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/) and [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/).
 
-Prior to this, I obtained my Bachelor's degree in Computer Science and Engineering from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) in 2022, advised by [Prof. Yeh-Ching Chung](https://www.cs.nthu.edu.tw/~ychung/). I also interned at Tencent AI Lab for one year, mentored by [Dr. Wenxiang Jiao](https://wxjiao.github.io/). 
+Prior to this, I obtained my Bachelor's degree in Computer Science and Engineering from [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) in 2022, advised by [Prof. Yeh-Ching Chung](https://www.cs.nthu.edu.tw/~ychung/). I also interned at Tencent AI Lab for one year, mentored by [Dr. Wenxiang Jiao](https://wxjiao.github.io/). 
 
 🏀 I love sports, especially basketball :) <br>
 🎹 Piano learner <br>
