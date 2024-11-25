@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /readings
 ---
-- <span title="钱钟书"> 围城. *“人生的讽刺与感伤，深于一切言语、一切啼笑。”*</span> <br>
+- <span title="钱钟书">《围城》 *“人生的讽刺与感伤，深于一切言语、一切啼笑。”*</span> <br>
 - <span title="Jane Piper Clendinning, Elizabeth West Marvin"> The Musician's Guide to Theory and Analysis. *“--”*</span> <br>
 - <span title="加西亚·马尔克斯">《霍乱时期的爱情》 *“原来是生命，而非死亡，才是没有止境的。”*</span> <br>
 - <span title="日向理惠子">《下雨的书店》 *“--”*</span> <br>
