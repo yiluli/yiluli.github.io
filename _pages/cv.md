@@ -19,22 +19,22 @@ Work experience
 ======
 * Summer 2023: Research Assistant
   * Carnegie Mellon University
-  * Duties includes: Distributed Learning Algorithm
+  * Distributed Learning Algorithm
   * Supervisor: Prof. [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/)
 
 * Fall 2022: Research Assistant
   * Carnegie Mellon University
-  * Duties includes: Secure Federated Learning System
+  * Secure Federated Learning System
   * Supervisor: Prof. [Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/)
 
 * Summer 2021: Research Assistant Intern
   * Tencent AI Lab
-  * Duties included: Multilingual NLP System
+  * Multilingual NLP System
   * Supervisor: Dr. [Wenxiang Jiao](https://wxjiao.github.io/)
 
 * Summer 2020: Research Assistant
   * The Chinese University of Hong Kong, Shenzhen
-  * Duties included: Agriculture IoT System
+  * Agriculture IoT System
   * Supervisor: Prof. [Yeh-Ching Chung](https://www.cs.nthu.edu.tw/~ychung/)
   
 <!-- Skills
