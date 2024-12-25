@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /readings
 ---
+- <span title="加西亚·马尔克斯">《百年孤独》 *“你看那天，看那墙，看那秋海棠。原来时间也会失误和出现意外，并因此迸裂，在某个房间里留下永恒的断片。”*</span> <br>
 - <span title="王秀梅">《诗经》 *“鸡既鸣矣，朝既盈矣。东方明矣，朝既昌矣。”*</span> <br>
 - <span title="钱钟书">《围城》 *“人生的讽刺与感伤，深于一切语言、一切啼笑。”*</span> <br>
 - <span title="Jane Piper Clendinning, Elizabeth West Marvin"> The Musician's Guide to Theory and Analysis. *“--”*</span> <br>
