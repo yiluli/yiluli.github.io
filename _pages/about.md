@@ -14,8 +14,8 @@ I hold an MSc degree in Artificial Intelligence Engineering - Information Securi
 Prior to this, I obtained my Bachelor's degree in Computer Science and Engineering from [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) in 2022, advised by [Prof. Yeh-Ching Chung](https://www.cs.nthu.edu.tw/~ychung/). I also interned at Tencent AI Lab for one year, mentored by [Dr. Wenxiang Jiao](https://wxjiao.github.io/). 
 
 🏀 I love sports, especially basketball :) <br>
-🎹 Piano learner <br>
-📜 Favourite quote 《诫子书》<br>
+<!-- 🎹 Piano learner <br>
+📜 Favourite quote 《诫子书》<br> -->
 <!-- 📖 Recent reading *El Amor En Los Tiempos Del Colera* <br> -->
 
 
