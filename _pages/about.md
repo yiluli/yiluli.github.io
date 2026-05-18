@@ -19,6 +19,21 @@ Prior to this, I obtained my Bachelor's degree in Computer Science and Engineeri
 <!-- 📖 Recent reading *El Amor En Los Tiempos Del Colera* <br> -->
 
 
+Featured Project
+======
+<div style="display:flex; flex-wrap:wrap; align-items:center; gap:1.25rem; margin-top:0.5rem;">
+  <div style="flex:0 0 38%; min-width:220px;">
+    <a href="https://jbbrewing.github.io/banshee/" target="_blank">
+      <img src="/images/architecture.png" alt="Banshee Framework Architecture" style="width:100%; height:auto; border-radius:6px;">
+    </a>
+  </div>
+  <div style="flex:1 1 300px; min-width:240px;">
+    <p style="margin:0 0 0.4rem 0;"><strong>Banshee: Acoustic Target Switch Attacks on UAV Visual Tracking</strong> — IEEE S&amp;P 2026</p>
+    <p style="margin:0; font-size:0.95rem; line-height:1.55;">The first physically realizable acoustic attack that hijacks UAV visual tracking by exploiting gimbal-camera vulnerabilities, achieving <strong>95.5%</strong> success in real-world black-box attacks on a commercial drone. See the <a href="https://jbbrewing.github.io/banshee/" target="_blank">project website</a> for paper, video, slides, and code.</p>
+  </div>
+</div>
+
+
 <!-- My academic journey has been driven by a curiosity to understand and innovate in the field of machine learning, particularly in its applications to decision making and systems engineering. -->
 
 <!-- 
