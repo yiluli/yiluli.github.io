@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there. I'm Jiarui Y. Li, a PhD student in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) Department at [the University of Michigan, Ann Arbor](https://umich.edu/), supervised by [Prof. Morley Mao](https://web.eecs.umich.edu/~zmao/). My research focuses on the security and robustness of AI-driven systems, with an emphasis on cyber-physical settings. In particular, I study how vulnerabilities in learning-based components can manifest in real-world autonomous systems, and develop principled approaches to analyze and mitigate such risks.
+Hi there. I'm Jiarui Y. Li, a PhD student in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) Department at [the University of Michigan, Ann Arbor](https://umich.edu/), supervised by [Prof. Morley Mao](https://web.eecs.umich.edu/~zmao/). I also work closely with [Prof. Qingzhao Zhang](https://zqzqz.github.io/). My research focuses on the security and robustness of AI-driven systems, with an emphasis on cyber-physical settings. In particular, I study how vulnerabilities in learning-based components can manifest in real-world autonomous systems, and develop principled approaches to analyze and mitigate such risks.
 
 I hold an MSc degree in Artificial Intelligence Engineering - Information Security from the Information Networking Institute at [Carnegie Mellon University](https://www.cmu.edu), where I specialized in secure distributed machine learning. I worked closely with [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/) and [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/).
 
