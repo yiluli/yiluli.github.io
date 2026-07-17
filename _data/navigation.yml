@@ -11,8 +11,8 @@ main:
   - title: "Resume"
     url: /files/JiaruiLi_resume.pdf
 
-  - title: "简历"
-    url: /files/JiaruiLi_resumeChinese.pdf
+  # - title: "简历"
+  #   url: /files/JiaruiLi_resumeChinese.pdf
 
   # - title: "Publications"
   #   url: /publications/

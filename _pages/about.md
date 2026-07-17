@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there. I'm Jiarui Y. Li, a PhD student in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) Department at [the University of Michigan, Ann Arbor](https://umich.edu/), supervised by [Prof. Morley Mao](https://web.eecs.umich.edu/~zmao/). I also work closely with [Prof. Qingzhao Zhang](https://zqzqz.github.io/). My research focuses on the security and robustness of AI-driven systems, with an emphasis on cyber-physical settings. In particular, I study how vulnerabilities in learning-based components can manifest in real-world autonomous systems, and develop principled approaches to analyze and mitigate such risks.
+Hi there. I'm Jiarui Y. Li, a PhD student in the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) Department at [the University of Michigan, Ann Arbor](https://umich.edu/), supervised by [Prof. Morley Mao](https://web.eecs.umich.edu/~zmao/). I also work closely with [Prof. Qingzhao Zhang](https://zqzqz.github.io/). My research centers on the **robustness and security of robotics and embodied AI in the physical world** — the learning-enabled systems that perceive, reason, and act through real sensors and actuators, where failures carry physical consequences rather than staying confined to the digital domain. I study how vulnerabilities propagate across the perception-to-control pipeline of physically deployed autonomous systems, from drones and self-driving vehicles to robotic manipulators, and I build principled methods to stress-test, red-team, and harden modern learning-based components under real-world, adversarial, and safety-critical conditions.
 
-I hold an MSc degree in Artificial Intelligence Engineering - Information Security from the Information Networking Institute at [Carnegie Mellon University](https://www.cmu.edu), where I specialized in secure distributed machine learning. I worked closely with [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/) and [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/).
+I hold an MSc degree in Artificial Intelligence Engineering - Information Security from the Information Networking Institute at [Carnegie Mellon University](https://www.cmu.edu), where my focus on the robustness and security of learning systems first took shape. Working with [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/) and [Prof. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/), I studied how adversarial and distributed conditions undermine the reliability of machine learning — a question I now pursue in physically embodied systems.
 
-Prior to this, I obtained my Bachelor's degree in Computer Science and Engineering from [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) in 2022, advised by [Prof. Yeh-Ching Chung](https://www.cs.nthu.edu.tw/~ychung/). I also interned at Tencent AI Lab for one year, mentored by [Dr. Wenxiang Jiao](https://wxjiao.github.io/). 
+Prior to this, I obtained my Bachelor's degree in Computer Science and Engineering from [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) in 2022. I also interned at Tencent AI Lab for one year, mentored by [Dr. Wenxiang Jiao](https://wxjiao.github.io/). 
 
 🏀 I love sports, especially basketball :) <br>
 <!-- 🎹 Piano learner <br>
@@ -19,7 +19,7 @@ Prior to this, I obtained my Bachelor's degree in Computer Science and Engineeri
 <!-- 📖 Recent reading *El Amor En Los Tiempos Del Colera* <br> -->
 
 
-Featured Project
+<!-- Featured Project
 ======
 <div style="display:flex; flex-wrap:wrap; align-items:center; gap:1.25rem; margin-top:0.5rem;">
   <div style="flex:0 0 38%; min-width:220px;">
@@ -31,7 +31,7 @@ Featured Project
     <p style="margin:0 0 0.4rem 0;"><strong>Banshee: Acoustic Target Switch Attacks on UAV Visual Tracking</strong> — IEEE S&amp;P 2026</p>
     <p style="margin:0; font-size:0.95rem; line-height:1.55;">The first physically realizable acoustic attack that hijacks UAV visual tracking by exploiting gimbal-camera vulnerabilities, achieving <strong>95.5%</strong> success in real-world black-box attacks on a commercial drone. See the <a href="https://jbbrewing.github.io/banshee/" target="_blank">project website</a> for paper, video, slides, and code.</p>
   </div>
-</div>
+</div> -->
 
 
 <!-- My academic journey has been driven by a curiosity to understand and innovate in the field of machine learning, particularly in its applications to decision making and systems engineering. -->
