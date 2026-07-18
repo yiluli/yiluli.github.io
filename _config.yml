@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiarui Y. Li / Homepage"
+title                    : "Jiarui Li / Homepage"
 title_separator          : "-"
-name                     : &name "Jiarui Y. Li"
+name                     : &name "Jiarui Li"
 description              : &description "EECS PhD Student @ UMICHIGAN"
 url                      : https://yiluli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "yiluli/yiluli.github.io"
 author:
   # Biographic information
   avatar           : "me4.jpeg"
-  name             : "Jiarui Yilu Li"
+  name             : "Jiarui Li"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "EECS PhD Student @ UMICHIGAN"
   location         : "Earth"
